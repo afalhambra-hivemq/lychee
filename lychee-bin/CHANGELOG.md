@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.25.0](https://github.com/lycheeverse/lychee/compare/lychee-v0.24.2...lychee-v0.25.0) - 2026-05-09
+
+### Other
+
+- move basic auth credentials out of Request  ([#2164](https://github.com/lycheeverse/lychee/pull/2164))
+- *(deps)* bump the dependencies group with 2 updates
+- Update changelogs for v0.24.2 ([#2180](https://github.com/lycheeverse/lychee/pull/2180))
+
 ## [0.24.2](https://github.com/lycheeverse/lychee/compare/lychee-v0.24.1...lychee-v0.24.2) - 2026-04-30
 
 ### Added
